@@ -51,7 +51,7 @@ alias yi='yarn install'
 alias yu='yarn upgrade'
 
 # zsh
-#save
-alias zs='source ~/.zshrc'
+# reload zsh session
+alias zs='exec zsh'
 #open with vim
 alias zo='vi ~/.zshrc'
