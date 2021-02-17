@@ -2,6 +2,9 @@
 
 # vi ~/.zshrc
 
+# plugins that I use:
+plugins=(git ruby rails)
+
 # clear
 alias c='clear'
 
@@ -53,5 +56,5 @@ alias yu='yarn upgrade'
 # zsh
 # reload zsh session
 alias zs='exec zsh'
-#open with vim
+# open with vim
 alias zo='vi ~/.zshrc'
