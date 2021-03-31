@@ -52,6 +52,10 @@ alias brakeman='be brakeman-pro -z -5 --no-progress --separate-models -o brakema
 # yarn
 alias yi='yarn install'
 alias yu='yarn upgrade'
+alias ys='yarn start'
+
+# git
+alias gpl='git pull'
 
 # zsh
 # reload zsh session
