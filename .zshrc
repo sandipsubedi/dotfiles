@@ -57,6 +57,9 @@ alias ys='yarn start'
 # git
 alias gpl='git pull'
 
+# terraform
+alias tf='terraform'
+
 # zsh
 # reload zsh session
 alias zs='exec zsh'
